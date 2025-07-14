@@ -1,0 +1,6 @@
+{
+  "amazonQ.allowFeatureDevelopmentToRunCodeAndTests": {
+
+  },
+  "amazonQ.importRecommendationForInlineCodeSuggestions": false
+}
